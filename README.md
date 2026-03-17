@@ -1,4 +1,4 @@
-# 32-bit RISC-V Pipelined Processor
+# RISC-V Pipelined CPU
 
 This repository showcases the design of a **32-bit RISC-V processor using a 5-stage pipeline architecture**. The processor follows the RISC-V ISA and divides instruction execution into multiple stages to improve throughput. It supports all standard instruction formats: **R, I, S, B, U, and J types**, and has been verified using simulation-based testing.
 
