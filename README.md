@@ -4,6 +4,11 @@ This repository showcases the design of a **32-bit RISC-V processor using a 5-st
 
 ---
 
+## Tools Used
+
+- Intel Quartus Prime  
+- ModelSim (Simulation)  
+
 ## Highlights
 
 ### Pipeline Organization
